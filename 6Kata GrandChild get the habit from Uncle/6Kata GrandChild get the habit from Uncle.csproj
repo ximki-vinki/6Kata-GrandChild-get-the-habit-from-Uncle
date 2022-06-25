@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_6Kata_GrandChild_get_the_habit_from_Uncle</RootNamespace>
+  </PropertyGroup>
+
+</Project>
